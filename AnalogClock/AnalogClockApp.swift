@@ -2,7 +2,7 @@
 //  AnalogClockApp.swift
 //  AnalogClock
 //
-//  Created by MohammedShafeer on 5/25/22.
+//  Created by ServantOf ALLAH on 5/25/22.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct AnalogClockApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ClockView()
         }
     }
 }
