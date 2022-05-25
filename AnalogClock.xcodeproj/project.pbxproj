@@ -17,6 +17,7 @@
 		6CC796BF283DDBBF00CDD1C6 /* MinuteHand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CC796BE283DDBBF00CDD1C6 /* MinuteHand.swift */; };
 		6CC796C1283DDBC900CDD1C6 /* HourHand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CC796C0283DDBC900CDD1C6 /* HourHand.swift */; };
 		6CC796C3283DDF9700CDD1C6 /* ClockViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CC796C2283DDF9700CDD1C6 /* ClockViewModel.swift */; };
+		6CC796C6283DF1CC00CDD1C6 /* ScreenShot.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CC796C5283DF1CC00CDD1C6 /* ScreenShot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		6CC796BE283DDBBF00CDD1C6 /* MinuteHand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinuteHand.swift; sourceTree = "<group>"; };
 		6CC796C0283DDBC900CDD1C6 /* HourHand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourHand.swift; sourceTree = "<group>"; };
 		6CC796C2283DDF9700CDD1C6 /* ClockViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockViewModel.swift; sourceTree = "<group>"; };
+		6CC796C5283DF1CC00CDD1C6 /* ScreenShot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 			isa = PBXGroup;
 			children = (
 				6CC796A6283DDB2500CDD1C6 /* AnalogClock */,
+				6CC796C4283DF15C00CDD1C6 /* ScreenShot */,
 				6CC796A5283DDB2500CDD1C6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -91,6 +94,14 @@
 				6CC796C0283DDBC900CDD1C6 /* HourHand.swift */,
 			);
 			path = Shapes;
+			sourceTree = "<group>";
+		};
+		6CC796C4283DF15C00CDD1C6 /* ScreenShot */ = {
+			isa = PBXGroup;
+			children = (
+				6CC796C5283DF1CC00CDD1C6 /* ScreenShot.png */,
+			);
+			path = ScreenShot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -153,6 +164,7 @@
 			files = (
 				6CC796AF283DDB2700CDD1C6 /* Preview Assets.xcassets in Resources */,
 				6CC796AC283DDB2700CDD1C6 /* Assets.xcassets in Resources */,
+				6CC796C6283DF1CC00CDD1C6 /* ScreenShot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
