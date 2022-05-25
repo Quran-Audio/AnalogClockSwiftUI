@@ -11,3 +11,7 @@ The clockview has the following componnents
 3. SecondHand (Shape)
 4. Line Dial (line used to mark the position of each minute) (Shape)
 5. Numeric Dial (hour label) (View)
+
+
+# Screen shot
+![Alt text](ScreenShot/ScreenShot.png?raw=true "Analog Clock")
